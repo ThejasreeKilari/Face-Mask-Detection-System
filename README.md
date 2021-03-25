@@ -4,3 +4,6 @@ An AI Based Face Mask Detection System using Convolutional Neural Network, Keras
 The following project checks whether an individual is wearing a Face Mask or Not. If the Individual is not wearing a Face mask or wearing it in a wrong way, then an <b>ALERT</b> Message is displayed.
 ## Demo Video :
 <img src="FaceMask.gif">
+
+## Reference :
+<b>Face Mask Detection Alert System : The AI University :</b> https://theaiuniversity.com/courses/face-mask-detection-alert-system/
